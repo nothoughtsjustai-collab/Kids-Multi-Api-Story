@@ -1,0 +1,8 @@
+{
+  "name": "Kids AI Storyteller & Illustrator",
+  "description": "A children's app that writes creative stories, reads them aloud using Gemini text-to-speech, and illustrates each page dynamically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
